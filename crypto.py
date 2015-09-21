@@ -1,5 +1,7 @@
 """
 @author: varad
+Quick tool to convert between numeric strings and alphabetic strings with
+(a,b,c,...,z)=(0,1,2,...,25)(mod 26)
 """
 
 import string
